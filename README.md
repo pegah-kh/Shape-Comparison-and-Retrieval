@@ -19,9 +19,9 @@ Experiments are conducted over [Deformation Transfer for Triangle Meshes dataset
 ### An illustration
 
 
-![Alt Text](report_and_presentation/DNA)
+![Alt Text](report_and_presentation/DNA.png)
 *Distance matrix obtained for classification using Shape DNA embeddings.*
-![Alt Text](report_and_presentation/GPS_embedding)
+![Alt Text](report_and_presentation/GPS_embedding.png)
 *Distance matrix obtained for classification using GPS embeddings and G2 distribution.*
 
 
